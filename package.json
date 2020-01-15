@@ -1,0 +1,21 @@
+{
+  "name": "random-messages",
+  "version": "1.0.0",
+  "description": "mensajes random",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "random",
+    "message"
+  ],
+  "author": "Víctor Droguett <victor.droguett.mz@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
